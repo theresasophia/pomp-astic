@@ -1,4 +1,4 @@
-This is the code used for the manuscript "pomp-astic inference methods for epidemic models illustrated on German rotatvirus surveillance data" by T. Stocks, M. Höhle, T. Britton (2018) published in *Biostatistics* (https://doi.org/10.1093/biostatistics/kxy057).
+This is the code used for the manuscript "Model selection and parameter estimation for dynamic epidemic models via iterated filtering: application to rotavirus in Germany " by T. Stocks, M. Höhle, T. Britton (2018) published in *Biostatistics* (https://doi.org/10.1093/biostatistics/kxy057). Preprint version: [https://www.biorxiv.org/content/early/2017/04/13/125880]
 
 For calculations in *Data*, the data available on https://github.com/weidemannf/thesis_code/tree/master/Mode_inference_paperI by Felix Weidemann was used.
 
